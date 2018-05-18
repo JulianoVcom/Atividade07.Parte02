@@ -15,6 +15,9 @@ public class Calcula {
 //Retorna a mediana de valores de um vetor
 public int getMedianaValoresVetor(Vetor vet) {
     int medianaValores = 0;
+    
+    medianaValores = vet.getQtdeValoresDoVetor() / 2;
+    
     return medianaValores;
 }
     
