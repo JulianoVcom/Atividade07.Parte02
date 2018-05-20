@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package atividade07.parte2;
+package jrr.atividade07.parte02;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,7 +18,6 @@ public class Vetor {
     public Vetor() {
 
     }
-
 
     public List<Double> getVetorDeValores() {
         return VetorDeValores;
@@ -40,4 +39,4 @@ public class Vetor {
      public double getValoresDoVetorPosN(int pPos) {
         return VetorDeValores.get(pPos).doubleValue();
     }
-}    
+}  

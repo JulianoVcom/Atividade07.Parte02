@@ -3,10 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package atividade07.parte2;
+package jrr.atividade07.parte02;
 
 /**
- *
  * @author juliano
  */
 public class Calcula {
@@ -15,8 +14,6 @@ public class Calcula {
 //Retorna a mediana de valores de um vetor
 public int getMedianaValoresVetor(Vetor vet) {
     int medianaValores = 0;
-    
-    medianaValores = vet.getQtdeValoresDoVetor() / 2;
     
     return medianaValores;
 }

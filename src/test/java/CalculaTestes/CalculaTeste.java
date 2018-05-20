@@ -5,9 +5,9 @@
  */
 package CalculaTestes;
 
-import atividade07.parte2.Calcula;
-import atividade07.parte2.Vetor;
 import java.util.List;
+import jrr.atividade07.parte02.Calcula;
+import jrr.atividade07.parte02.Vetor;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
